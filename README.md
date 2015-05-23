@@ -1,8 +1,8 @@
-## Getting and Cleaning Data - Course Project
+# Getting and Cleaning Data - Course Project
 
 This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data", available on coursera's website.
 
-# Steps to follow for this course project
+## Steps to follow for this course project
 
 - Download the data source and put into a folder on your local drive. You'll have a UCI HAR Dataset folder.
 
